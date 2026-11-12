@@ -460,4 +460,4 @@ Adding a secret to `.gitignore` does not remove it from Git history if it has al
 
 ## 18. Conclusion
 
-Git helps developers manage project history, track changes and collaborate efficiently. GitHub extends these capabilities through online repositories, Pull Requests, Issues and project management tools.
+Git helps developers manage project history, track changes and collaborate efficiently. GitHub extends these capabilities through online repositories, Pull Requests, Issues and project management tools.git status
