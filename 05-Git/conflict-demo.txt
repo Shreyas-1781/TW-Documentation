@@ -1,1 +1,1 @@
-This version belongs to main, updated separately.
+This conflict has been resolved by combining the changes from main and parallel.
